@@ -7,4 +7,4 @@ Develop machine learning models leveraging a dataset generated from the Wild Blu
 Derived from observations and deep learning models, featuring key factors like clone size, bee activity, and temperature, closely resembling the original dataset while providing insights for yield prediction.
 
 ### References:
-Wild Blueberry Yield Prediction Dataset: Link
+Wild Blueberry Yield Prediction Dataset: https://www.kaggle.com/competitions/playground-series-s3e14/data
